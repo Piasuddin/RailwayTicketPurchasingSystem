@@ -1,4 +1,3 @@
-# RailwayTicketPurchasingSystem
 # About
 This is my personal web application project written in C# with ASP.NET MVC. I have created this application to control the flow of chaos ticket purchasing system in a 
 railway station. This application can control the whole ticket purchasing system, the ticket master as well as the passenger very securely. 
